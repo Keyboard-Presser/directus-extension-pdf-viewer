@@ -1,0 +1,4 @@
+node_modules/
+pdf-viewer-temp/
+.env
+*.log
